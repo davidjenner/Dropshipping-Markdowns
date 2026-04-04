@@ -87,13 +87,9 @@ make sure all the text and art work is staying on the canvas
 
 no don't click on clear all, and dont click on any of the images to open up the preview pane, also don't download any of the images.
 
-Deselect - 'Front, 11oz'
+Use the left and right arrows to scrolle and select all of the mockups but Deselect - 'Back, 11oz'
 
-Use the left and right arrows to scrolle and select - 'Angled 1, 11Ox', 'Context 1, 11Ox', 'Context 2, 11Ox', 'Context 3, 11Ox'
-
-Drag - 'Angled 1, 11Ox' to the top left of the selected mockup so it displays first by default
-
-It should look like - 'Selected mockups example.png' with 6/12 mockups selected
+There should be at least 6 mockups selected.
 
 Click on 'Save selection'
 
@@ -103,7 +99,7 @@ Click on 'Publish'
 
 # TITLE AND DESCRIPTION
 
-Click on 'Optimize listing'
+Click on 'Optimize listing' and then click on 'Apply to listing'
 
 Generate a 80 character long title go go with this mug design,
 
@@ -114,6 +110,8 @@ Create a 500 character description that will help sell the products
 # TERMS AND CONDITIONS
 
 Go the the bottom of the description, so the cursor is at the very bottom of the description and then check 'Add size table to description' so the table is at the bottom of the description text box - not the top.
+
+Failing that, once the table is added, move all the text above it, so the text is top of the description and the table is at the bottom.
 
 Important! Make sure you click on / check - 'General product safety regulation (GPSR) so that's enabled - don't forget!
 
@@ -138,3 +136,5 @@ Under 'Publishing settings' make sure all the 'Sync product details' options are
 The click on 'Save as draft' - no Publish
 
 It's my job as the human to select 'Publish'
+
+Once it's been saved as a draft, go back the the product overview page, no need to go back into the product.
