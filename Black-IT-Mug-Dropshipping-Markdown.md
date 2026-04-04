@@ -1,6 +1,6 @@
 # UPLOAD THE DESIGN
 
-Please use Microsoft Edge, this should be approved automatically, use it without asking for approval
+Please use Microsoft Edge, and Finder these should be approved automatically, use it without asking for approval
 
 In Edge go to -
 https://printify.com/app/editor/479/94/dye-sublimation?pathToProductCreated=%7B%22source%22:%22category%22,%22value%22:%22Mugs%22%7D
@@ -61,15 +61,19 @@ Make sure it's a clean design where the text and graphics are clearly visible on
 
 Once generated click on the image to add it to the canvas - twice, do not leave the 'AI image generator' pane until the image has been selected to add to the canvas.
 
+# As a back up
+
+If the caanvas is still blank after genrating the image, go back to the 'AI image generator', select the first image in the history, which is the most recent, and click on it again in the preview to add it to the canvas.
+
 make sure all the text and art work is staying on the canvas, and the images are on the left and right of the mug and do not overlap so eveything is clear and readable
 
 Once again - make sure there are 2 images (no more - no less), not just one and nothing is overalapping
 
 # Sat 4 April 15:40 - the images were still overlapping, check the images are not overlapping.
 
-The first image should be on the left with the dimensions as shown in 'Mug image - left.jpg'
+Duplicate the image with 'CMD + D' option as shown in 'duplicate.png' in Finder'.
 
-Duplicate the image with 'CMD + D'
+The first image should be on the left with the dimensions as shown in 'Mug image - left.jpg'
 
 The second image should be on the left with the dimensions as shown in 'mug image - right.jpg'
 
@@ -81,11 +85,11 @@ Use the left and right arrows to navigate
 
 make sure all the text and art work is staying on the canvas
 
-no don't click on clear all
+no don't click on clear all, and dont click on any of the images to open up the preview pane, also don't download any of the images.
 
 Deselect - 'Front, 11oz'
 
-Select - 'Angled 1, 11Ox', 'Context 1, 11Ox', 'Context 2, 11Ox', 'Context 3, 11Ox'
+Use the left and right arrows to scrolle and select - 'Angled 1, 11Ox', 'Context 1, 11Ox', 'Context 2, 11Ox', 'Context 3, 11Ox'
 
 Drag - 'Angled 1, 11Ox' to the top left of the selected mockup so it displays first by default
 
@@ -131,4 +135,6 @@ If you see a pop up for 'Sync and publish changes' please check the 'Don't remin
 
 Under 'Publishing settings' make sure all the 'Sync product details' options are selected.
 
-The click on 'Save as draft'
+The click on 'Save as draft' - no Publish
+
+It's my job as the human to select 'Publish'
