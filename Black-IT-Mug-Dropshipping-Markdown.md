@@ -1,6 +1,6 @@
 # UPLOAD THE DESIGN
 
-Please use Edge, this should be approved automatically
+Please use Microsoft Edge, this should be approved automatically, use it without asking for approval
 
 In Edge go to -
 https://printify.com/app/editor/479/94/dye-sublimation?pathToProductCreated=%7B%22source%22:%22category%22,%22value%22:%22Mugs%22%7D
@@ -59,11 +59,11 @@ On Sunday - Analog Film
 
 Make sure it's a clean design where the text and graphics are clearly visible on white. Anything that isn't text or graphics should not be there - so no splodges or dots that don't make up the design.
 
-Once generated click on the image to add it to the canvas, do not leave the 'AI image generator' pane until the image has been selected to add to the canvas.
+Once generated click on the image to add it to the canvas - twice, do not leave the 'AI image generator' pane until the image has been selected to add to the canvas.
 
 make sure all the text and art work is staying on the canvas, and the images are on the left and right of the mug and do not overlap so eveything is clear and readable
 
-Once again - make sure nothing is overalapping
+Once again - make sure there are 2 images (no more - no less), not just one and nothing is overalapping
 
 # Sat 4 April 15:40 - the images were still overlapping, check the images are not overlapping.
 
@@ -109,9 +109,9 @@ Create a 500 character description that will help sell the products
 
 # TERMS AND CONDITIONS
 
-Go the the bottom of the description, so the cursor is at the very bottom of the description and then check 'Add size table to description' so the table is at the bottom of the text box
+Go the the bottom of the description, so the cursor is at the very bottom of the description and then check 'Add size table to description' so the table is at the bottom of the description text box - not the top.
 
-then check - 'General product safety regulation (GPSR) so that's enabled
+Important! Make sure you click on / check - 'General product safety regulation (GPSR) so that's enabled - don't forget!
 
 Both both checkboxes under the description should then be checked, looking like it does in 'Description-checkboxes.png'
 
