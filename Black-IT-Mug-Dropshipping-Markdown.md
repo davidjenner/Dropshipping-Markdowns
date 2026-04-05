@@ -117,10 +117,13 @@ Important! Make sure you click on / check - 'General product safety regulation (
 
 Both both checkboxes under the description should then be checked, looking like it does in 'Description-checkboxes.png'
 
+Please do not enable 'Personalization', leave this turned off.
+
 # In the Detailed table view
 
 Click on 'Detailed table view'
 
+In the 'Retail price' feild only, no where else
 'Edit Price' and update the price to 10.99, keeping it as it is right throught till the draft it's saved.
 
 Do not go back to any previous stages
